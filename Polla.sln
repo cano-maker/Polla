@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polla.Web", "Polla.Web\Polla.Web.csproj", "{90BEB1F3-F459-478D-8B61-BEADA21DACFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polla.Common", "Polla.Common\Polla.Common.csproj", "{E31C0071-FDEB-4E8D-9523-61B947F09173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BEB1F3-F459-478D-8B61-BEADA21DACFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BEB1F3-F459-478D-8B61-BEADA21DACFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BEB1F3-F459-478D-8B61-BEADA21DACFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BEB1F3-F459-478D-8B61-BEADA21DACFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E31C0071-FDEB-4E8D-9523-61B947F09173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31C0071-FDEB-4E8D-9523-61B947F09173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31C0071-FDEB-4E8D-9523-61B947F09173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31C0071-FDEB-4E8D-9523-61B947F09173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F59DEBDB-F9E6-4AA1-A035-A6CE6E38C644}
+	EndGlobalSection
+EndGlobal
